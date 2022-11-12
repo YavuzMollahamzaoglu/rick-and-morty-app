@@ -1,5 +1,11 @@
 .App {
+  margin-right: 0px;
   text-align: center;
+  background-image: url("./Images/rickandmorty.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;  
+  background-attachment: fixed;
 }
 
 .App-logo {
